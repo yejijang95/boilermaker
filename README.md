@@ -44,11 +44,11 @@ Sync and seed your database by running `npm run seed`. Running `npm run start:de
 ### datebase
 
 in terminal - 
-psql
-createdb 'app-name'
-(after seeding)
-/c 'app-name' (in psql)
-npm run seed
+- psql
+- createdb 'app-name'
+- (after seeding)
+- /c 'app-name' (in psql)
+- npm run seed
 
 ### Heroku
 
